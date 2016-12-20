@@ -7,6 +7,9 @@ OpenLive 旨在给开发者提供一个完整的移动端直播点播编码解�
 
 1：Android 推流器
 
+https://github.com/devillee/OpenLiveAndroidPusher （已完成）
+
+
 2：Android 拉流器
 
 3：iOS 推流器
