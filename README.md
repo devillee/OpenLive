@@ -16,7 +16,7 @@ https://github.com/devillee/OpenLiveAndroidPusher （已完成）
 
 https://github.com/sandyCK/OpenLiveiOSPusher （已完成）
 
-4：ioS 拉流器
+4：iOS 拉流器
 
 
 
