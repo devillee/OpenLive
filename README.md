@@ -14,6 +14,8 @@ https://github.com/devillee/OpenLiveAndroidPusher （已完成）
 
 3：iOS 推流器
 
+https://github.com/sandyCK/CKRtmpPusher  （已完成）
+
 4：ioS 拉流器
 
 
